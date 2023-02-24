@@ -1,48 +1,13 @@
 package com.humair.dto;
 
-public class Department {
+public interface Department {
 
-	private int did;
-	private String dName;
-	private int dHeadId;
+	public int getDept_id();
 
-	public Department() {};	
-	
-	public Department(int did, String dName, int dHeadId) {
-		this.did = did;
-		this.dName = dName;
-		this.dHeadId = dHeadId;
-	}
+	public void setDept_id(int dept_id);
 
-	public int getDid() {
-		return did;
-	}
+	public String getDept_name();
 
-	public void setDid(int did) {
-		this.did = did;
-	}
-
-	public String getdName() {
-		return dName;
-	}
-
-	public void setdName(String dName) {
-		this.dName = dName;
-	}
-
-	public int getdHeadId() {
-		return dHeadId;
-	}
-
-	public void setdHeadId(int dHeadId) {
-		this.dHeadId = dHeadId;
-	};
-	
-
-	@Override
-	public String toString() {
-		return "[Department ID : " + did + " | Department Name : " + dName + "]";
-	}
-	
+	public void setDept_name(String dept_name);
 	
 }
