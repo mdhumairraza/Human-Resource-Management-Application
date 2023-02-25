@@ -66,8 +66,12 @@ Human Resource management system
 
 
 # Description :-
+
 Software To Monitor Your Employees details, Productive Time, Leave Status & Department Details.
 
+
+# Flowchart 
+![mdhumairraza_flowDiagram](https://user-images.githubusercontent.com/112873688/221328077-8d6a59af-ed68-474c-8909-12ec9775b0f9.png)
 
 
 <h3>Admin Roles are:</h3>
