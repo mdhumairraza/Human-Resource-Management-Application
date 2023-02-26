@@ -109,6 +109,7 @@ Software To Monitor Your Employees details, Productive Time, Leave Status & Depa
 # Flow of Application
 
 <h3>Database Schema:</h3>
+
 ![ER_Diagram](https://user-images.githubusercontent.com/112873688/221327729-74c61191-3130-4d39-b0b8-380dfbe7290e.png)
 
 
