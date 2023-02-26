@@ -70,8 +70,6 @@ Human Resource management system
 Software To Monitor Your Employees details, Productive Time, Leave Status & Department Details.
 
 
-# Flowchart 
-![mdhumairraza_flowDiagram](https://user-images.githubusercontent.com/112873688/221328077-8d6a59af-ed68-474c-8909-12ec9775b0f9.png)
 
 
 <h3>Admin Roles are:</h3>
@@ -111,8 +109,12 @@ Software To Monitor Your Employees details, Productive Time, Leave Status & Depa
 # Flow of Application
 
 <h3>Database Schema:</h3>
-
 ![ER_Diagram](https://user-images.githubusercontent.com/112873688/221327729-74c61191-3130-4d39-b0b8-380dfbe7290e.png)
+
+
+# Flowchart 
+![mdhumairraza_flowDiagram](https://user-images.githubusercontent.com/112873688/221328077-8d6a59af-ed68-474c-8909-12ec9775b0f9.png)
+
 
 ## **Application Start** 
 *Start View Of Application*
