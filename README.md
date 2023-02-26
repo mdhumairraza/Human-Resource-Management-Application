@@ -118,7 +118,10 @@ Software To Monitor Your Employees details, Productive Time, Leave Status & Depa
 
 
 ## **Application Start** 
-*Start View Of Application*
+**Start View Of Application**
+
+![Screenshot_20230225_062104](https://user-images.githubusercontent.com/112873688/221397560-9b9c5456-740c-4e45-a288-67d11625dde8.png)
+
 </br>
 
 ## **ADMIN ACCESSIBLE FUNCTIONS** 
