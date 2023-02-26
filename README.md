@@ -99,7 +99,9 @@ Software To Monitor Your Employees details, Productive Time, Leave Status & Depa
 
 # Tech stack and Tools used 
 
+- STS
 - Java
+- JDBC
 - MySQL
 - Git & GitHub
 
