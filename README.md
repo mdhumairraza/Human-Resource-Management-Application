@@ -1,5 +1,4 @@
-# radioactive-muscle-5983-
-Human Resource management system
+# Human Resource management system
 
 
 # The Basic Prerequisites of this Applications are.
